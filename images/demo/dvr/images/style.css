@@ -1,108 +1,132 @@
 #Car_DVR_804H_cont{
-	width:1000px;
-	border-left:1px solid #eee;
-	border-right:1px solid #eee;
-	font-family:Arial, Helvetica, sans-serif;
+    width:1000px;
+    border-left:1px solid #eee;
+    border-right:1px solid #eee;
+    font-family:Arial, Helvetica, sans-serif;
 }
+
 #Car_DVR_804H_01{
-	background:url(Car_DVR_804H_01.jpg);
-	height:83px;
+    background:url(Car_DVR_804H_01.jpg);
+    height:83px;
 }
+
 #Car_DVR_804H_02{
-	background:url(Car_DVR_804H_02.jpg);
-	height:250px;
+    background:url(Car_DVR_804H_02.jpg);
+    height:250px;
 }
+
 #Car_DVR_804H_03{
-	background:url(Car_DVR_804H_03.jpg);
-	height:301px;
+    background:url(Car_DVR_804H_03.jpg);
+    height:301px;
 }
+
 #Car_DVR_804H_04{
-	background:url(Car_DVR_804H_04.jpg);
-	height:185px;
+    background:url(Car_DVR_804H_04.jpg);
+    height:185px;
 }
+
 #Car_DVR_804H_05{
-	background:url(Car_DVR_804H_05.jpg);
-	height:60px;
+    background:url(Car_DVR_804H_05.jpg);
+    height:60px;
 }
+
 #Car_DVR_804H_06{
-	background:url(Car_DVR_804H_06.jpg);
-	height:515px;
+    background:url(Car_DVR_804H_06.jpg);
+    height:515px;
 }
+
 #Car_DVR_804H_07{
-	background:#414141;
+    background:#414141;
 }
+
 #Car_DVR_804H_07 img{
-	border:5px solid #a28430;
-	-moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;
-	margin:0 0 20px 0;
+    border:5px solid #a28430;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    margin:0 0 20px 0;
 }
+
 #Car_DVR_804H_08{
-	background:url(Car_DVR_804H_08.jpg);
-	height:43px;
+    background:url(Car_DVR_804H_08.jpg);
+    height:43px;
 }
+
 #Car_DVR_804H_09{
-	background:#FFF;
-	padding:20px 0;
+    background:#FFF;
+    padding:20px 0;
 }
+
 #Car_DVR_804H_10{
-	background:#1f1f20;
-	padding:20px 0;
-	font:12px Arial, Helvetica, sans-serif;
-	color:#fff;
+    background:#1f1f20;
+    padding:20px 0;
+    font:12px Arial, Helvetica, sans-serif;
+    color:#fff;
 }
+
 #Car_DVR_804H_07_Specification{
-	height:490px;
-	/*background:#FFFFFF;*/
-	float:left;
-	margin:0 0 0 50px;
-	color:#FFF;
+    height:490px;
+    /*background:#FFFFFF;*/
+    float:left;
+    margin:0 0 0 50px;
+    color:#FFF;
 }
+
 #Car_DVR_804H_07_Specification_cont{
-	text-align:left;
-	/*text-align:justify;*/
-	font-size:14px;
-	overflow:auto;
-	height:450px;
-	padding:0 15px;
-	width:280px;
+    text-align:left;
+    /*text-align:justify;*/
+    font-size:14px;
+    overflow:auto;
+    height:450px;
+    padding:0 15px;
+    width:280px;
 
 }
+
 #Car_DVR_804H_07_gallery{
-	float:right;
-	width:590px;
-	margin:0 20px 0 0;
-	text-align:left;
-	color:#FFF;
+    float:right;
+    width:590px;
+    margin:0 20px 0 0;
+    text-align:left;
+    color:#FFF;
 }
+
 #Car_DVR_804H_07_gallery_cont{
-	width:580px;
-	height:370px;
-	overflow:auto;
-	text-align:center;
-	margin-top:10px;
+    width:580px;
+    height:370px;
+    overflow:auto;
+    text-align:center;
+    margin-top:10px;
 }
-#Car_DVR_804H_07_gallery table {
-	width:100%;
-	border:none;
+
+#Car_DVR_804H_07_gallery table{
+    width:100%;
+    border:none;
 }
-#Car_DVR_804H_07_gallery table td {
-	padding:3px;
-	text-align:center;
+
+#Car_DVR_804H_07_gallery table td{
+    padding:3px;
+    text-align:center;
 }
+
 #Car_DVR_804H_07_gallery table img{
-	border:3px solid #fff;
-	width:170px;
-	height:105px;
-	-moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;
+    border:3px solid #fff;
+    width:170px;
+    height:105px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
 }
+
 #overview_cont{
-	padding:5px 50px;
-	text-align:left;
-	font-size:14px;
-	color:#333;
+    padding:5px 50px;
+    text-align:left;
+    font-size:14px;
+    color:#333;
 }
+
 #overview_cont h2{
-	padding:10px;
-	margin:20px 0 10px 0;
-	border-bottom:1px solid #ccc;
+    padding:10px;
+    margin:20px 0 10px 0;
+    border-bottom:1px solid #ccc;
 }
