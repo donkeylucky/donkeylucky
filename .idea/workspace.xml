@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026880fa-e682-4a00-8646-e1fef271d98e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/thumbs/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\users\donkey\Documents\GitHub\donkeylucky\images\portfolio\thumbs\Descr.WD3" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/demo/dvr/Car_DVR_804H.html" afterPath="$PROJECT_DIR$/images/demo/dvr/Car_DVR_804H.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/chart.min.js" afterPath="$PROJECT_DIR$/js/chart.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/grid.js" afterPath="$PROJECT_DIR$/js/grid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/grid.min.js" afterPath="$PROJECT_DIR$/js/grid.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/handle.js" afterPath="$PROJECT_DIR$/js/handle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/handle.min.js" afterPath="$PROJECT_DIR$/js/handle.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.scrollTo.min.js" afterPath="$PROJECT_DIR$/js/jquery.scrollTo.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.custom.08549.js" afterPath="$PROJECT_DIR$/js/modernizr.custom.08549.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.custom.21373.js" afterPath="$PROJECT_DIR$/js/modernizr.custom.21373.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/js/modernizr.custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/normalize-min.css" afterPath="$PROJECT_DIR$/images/normalize-min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/style.css" afterPath="$PROJECT_DIR$/images/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/demo/dvr/images/style.css" afterPath="$PROJECT_DIR$/images/demo/dvr/images/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/style.less" afterPath="$PROJECT_DIR$/images/style.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/waypoints.min.js" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="donkeylucky.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,12 +28,12 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="38" selection-start="6797" selection-end="6797" vertical-scroll-proportion="0.23660715" vertical-offset="2900" max-vertical-offset="5225">
+            <state line="168" column="51" selection-start="7578" selection-end="7578" vertical-scroll-proportion="0.49107143" vertical-offset="2995" max-vertical-offset="5225">
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1391836865216" expanded="false" signature="1108:1163" placeholder="..." />
-                <marker date="1391836865216" expanded="true" signature="1164:1479" placeholder="..." />
+                <marker date="1391837616175" expanded="false" signature="1114:1169" placeholder="..." />
+                <marker date="1391837616175" expanded="true" signature="1170:1485" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -333,7 +287,11 @@
       <created>1391831243128</created>
       <updated>1391831243128</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改">
+      <created>1391837370934</created>
+      <updated>1391837370934</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -358,7 +316,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32784638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -366,7 +324,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12570621" sideWeight="0.67215365" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12570621" sideWeight="0.6707819" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -390,7 +348,8 @@
     </option>
     <MESSAGE value="测试一下webstorm" />
     <MESSAGE value="更新了一个页面" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了一个页面" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -402,8 +361,8 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1391836865216" expanded="false" signature="1108:1163" placeholder="..." />
-            <marker date="1391836865216" expanded="true" signature="1164:1479" placeholder="..." />
+            <marker date="1391837616175" expanded="false" signature="1114:1169" placeholder="..." />
+            <marker date="1391837616175" expanded="true" signature="1170:1485" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -414,8 +373,8 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1391836865216" expanded="false" signature="1108:1163" placeholder="..." />
-            <marker date="1391836865216" expanded="true" signature="1164:1479" placeholder="..." />
+            <marker date="1391837616175" expanded="false" signature="1114:1169" placeholder="..." />
+            <marker date="1391837616175" expanded="true" signature="1170:1485" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -426,8 +385,8 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1391836865216" expanded="false" signature="1108:1163" placeholder="..." />
-            <marker date="1391836865216" expanded="true" signature="1164:1479" placeholder="..." />
+            <marker date="1391837616175" expanded="false" signature="1114:1169" placeholder="..." />
+            <marker date="1391837616175" expanded="true" signature="1170:1485" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -444,12 +403,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="38" selection-start="6797" selection-end="6797" vertical-scroll-proportion="0.23660715" vertical-offset="2900" max-vertical-offset="5225">
+        <state line="168" column="51" selection-start="7578" selection-end="7578" vertical-scroll-proportion="0.49107143" vertical-offset="2995" max-vertical-offset="5225">
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1391836865216" expanded="false" signature="1108:1163" placeholder="..." />
-            <marker date="1391836865216" expanded="true" signature="1164:1479" placeholder="..." />
+            <marker date="1391837616175" expanded="false" signature="1114:1169" placeholder="..." />
+            <marker date="1391837616175" expanded="true" signature="1170:1485" placeholder="..." />
           </folding>
         </state>
       </provider>
